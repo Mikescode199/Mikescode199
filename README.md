@@ -1,3 +1,3 @@
-- 🌱 I’m currently learning Django, Alexa and Unity
-- 👯 I’m looking to collaborate 
-React and React Native 
+- Hey Guys, this is my actually repo for testing projects on Python
+Feel free to clone them 
+Mr Python Mike 
